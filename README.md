@@ -2,7 +2,7 @@
 <h3 align="center">A Robotics Enthusiast with a Passion for UAVs and AI-Driven Automation</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/XAQxXbboV2dLf1jRIR/giphy.gif" alt="Robotics" width="600"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTNiMmtwMmw3ZmV0eGlqdTBrY2l4aWpwemJ5YjJvMG43djUwYTh5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" alt="Robotics" width="600"/>
 </p>
 
 ---
