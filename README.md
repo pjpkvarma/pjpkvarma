@@ -16,7 +16,7 @@
 ---
 
 ### 🌐 Connect with Me
-<p>
+<p align="center">
   <a href="https://linkedin.com/in/pjpkvarma" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
@@ -35,12 +35,13 @@
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
   <img src="https://img.icons8.com/color/48/000000/matlab.png" alt="MATLAB"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-ros-robot-operating-system-logo-color-tal-revivo.png" alt="ROS1 & ROS2"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/OpenCV_Logo_with_text_svg_version.svg/256px-OpenCV_Logo_with_text_svg_version.svg.png" alt="OpenCV" width="48"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/512px-PyTorch_logo_icon.svg.png" alt="PyTorch" width="48"/>
-  <img src="https://img.icons8.com/ios/50/4a90e2/docker.png" alt="Docker"/>
+  <img src="https://img.icons8.com/color/48/000000/ros.png" alt="ROS1 & ROS2"/>
+  <img src="https://img.icons8.com/color/48/000000/opencv.png" alt="OpenCV"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" width="48" height="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo_OpenAI_Gym.png" alt="OpenAI Gym" width="48" height="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Docker_logo.png" alt="Docker" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
   <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux"/>
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-git-version-control-tool-used-to-develop-software-logo-shadow-tal-revivo.png" alt="Git"/>
 </p>
 
 ---
