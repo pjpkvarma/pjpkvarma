@@ -8,7 +8,7 @@
 ---
 
 ### 👨‍🎓 About Me
-- 🎓 **Master’s Student** in Robotics at **University at Buffalo** (GPA: 4.0/4.0)  
+- 🎓 **Master’s Student** in Robotics at **University at Buffalo** 
 - ✈️ Passionate about autonomous mobile robots.
 - 🔍 **Research Interests**: Autonomous Robots, Perception, Navigation and Path Planning, SLAM, and Sensor Fusion 
 - 📚 Enthusiastic about conducting research to advance robotics and AI technologies.
