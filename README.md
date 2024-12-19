@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Jagadeswara Pavan Kumar Varma Pothuri</h1>
+<h1 align="center">Hi there 👋, I'm J P K Varma Pothuri</h1>
 <h3 align="center">Engineering the intersection of robotics, AI, and perception.</h3>
 
 <p align="center">
@@ -9,9 +9,9 @@
 
 ### 👨‍🎓 About Me
 - 🎓 **Master’s Student** in Robotics at **University at Buffalo** (GPA: 4.0/4.0)  
-- ✈️ Passionate about autonomous mobile robots and multi-robot coordination.
+- ✈️ Passionate about autonomous mobile robots.
 - 🔍 **Research Interests**: Autonomous Robots, Perception, Navigation and Path Planning, SLAM, and Sensor Fusion 
-- 📚 Constantly exploring cutting-edge robotics and AI technologies  
+- 📚 Enthusiastic about conducting research to advance robotics and AI technologies.
 
 ---
 
