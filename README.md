@@ -38,13 +38,13 @@
   <!-- MATLAB -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="48" height="48"/>
   <!-- ROS -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/ROS_Logo.svg" alt="ROS" width="48" height="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Robot_Operating_System_logo.svg" alt="ROS" width="48" height="48"/>
   <!-- OpenCV -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" width="48" height="48"/>
   <!-- PyTorch -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" width="48" height="48"/>
-  <!-- Stable Baselines/OpenAI Gym -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/OpenAI_Logo.svg" alt="OpenAI Gym" width="48" height="48"/>
+  <!-- OpenAI Gym -->
+  <img src="https://gym.openai.com/static/images/gym/gym_logo_black.svg" alt="OpenAI Gym" width="48" height="48"/>
   <!-- Docker -->
   <img src="https://img.icons8.com/fluency/48/000000/docker.png" alt="Docker"/>
   <!-- Git -->
@@ -52,6 +52,7 @@
   <!-- Linux -->
   <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux"/>
 </p>
+
 ---
 
 
