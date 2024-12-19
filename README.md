@@ -51,5 +51,7 @@
 
 ---
 
-### 🌟 Fun Fact
+### 🌟 Fun Facts
 - ⚡ I can explain complex robotic algorithms but still occasionally trip over flat surfaces!
+- 🏐 I love playing volleyball and cricket, but my robotic arm simulations have better coordination than my real ones!
+- 💤 When not building robots, you’ll either find me at the gym or catching up on some much-needed sleep!
