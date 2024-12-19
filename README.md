@@ -23,7 +23,7 @@
   <a href="mailto:jpkvarmapothuri@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email"/>
   </a>
-  <a href="https://bold.pro/my/pjpkvarma" target="_blank">
+  <a href="https://www.buffalo.edu/~jagadesw" target="_blank">
     <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/48/000000/external-portfolio-resume-flaticons-lineal-color-flat-icons.png" alt="Portfolio"/>
   </a>
 </p>
@@ -44,15 +44,7 @@
   <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux"/>
 </p>
 
----
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pjpkvarma&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pjpkvarma&theme=radical" alt="GitHub Streak Stats" />
-</p>
-
----
 
 ### 🚀 Open Source Robotics Vibes
 <p align="center">
