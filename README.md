@@ -32,17 +32,28 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
+  <!-- Python -->
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+  <!-- C++ -->
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
+  <!-- MATLAB -->
   <img src="https://img.icons8.com/color/48/000000/matlab.png" alt="MATLAB"/>
-  <img src="https://img.icons8.com/color/48/000000/ros.png" alt="ROS1 & ROS2"/>
-  <img src="https://img.icons8.com/color/48/000000/opencv.png" alt="OpenCV"/>
+  <!-- ROS -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Robot_Operating_System_logo.svg" alt="ROS" width="48" height="48"/>
+  <!-- OpenCV -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_logo_with_text_svg_version.svg" alt="OpenCV" width="48" height="48"/>
+  <!-- PyTorch -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" width="48" height="48"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo_OpenAI_Gym.png" alt="OpenAI Gym" width="48" height="48"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Docker_logo.png" alt="Docker" width="48" height="48"/>
+  <!-- Stable Baselines/OpenAI Gym -->
+  <img src="https://gymnasium.farama.org/_static/images/gymnasium/Gymnasium.svg" alt="OpenAI Gym" width="48" height="48"/>
+  <!-- Docker -->
+  <img src="https://img.icons8.com/fluency/48/000000/docker.png" alt="Docker"/>
+  <!-- Git -->
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
+  <!-- Linux -->
   <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux"/>
 </p>
+
 
 
 
