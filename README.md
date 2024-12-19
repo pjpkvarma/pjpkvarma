@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Jagadeswara Pavan Kumar Varma Pothuri</h1>
-<h3 align="center">A Robotics Enthusiast with a Passion for UAVs and AI-Driven Automation</h3>
+<h3 align="center">Aspiring to craft intelligent systems as a Robotics Software Engineer, blending perception, AI, and autonomy.</h3>
 
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTNiMmtwMmw3ZmV0eGlqdTBrY2l4aWpwemJ5YjJvMG43djUwYTh5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" alt="Robotics" width="600"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2MxMzZhamhyenh1ODZ0bmtlZXVvMTRwYXo5dWd4OGJpaTJxaHJ1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Robotics" width="600"/>
 </p>
 
 ---
