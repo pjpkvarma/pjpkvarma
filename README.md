@@ -51,15 +51,5 @@
 
 ---
 
-
-
-
-### 🚀 Open Source Robotics Vibes
-<p align="center">
-  <img src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" alt="Open Source Robotics" width="600"/>
-</p>
-
----
-
 ### 🌟 Fun Fact
 - ⚡ I can explain complex robotic algorithms but still occasionally trip over flat surfaces!
