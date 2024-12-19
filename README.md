@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Jagadeswara Pavan Kumar Varma Pothuri</h1>
-<h3 align="center">Aspiring to craft intelligent systems as a Robotics Software Engineer, blending perception, AI, and autonomy.</h3>
+<h3 align="center">Engineering the intersection of robotics, AI, and perception.</h3>
 
 <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2MxMzZhamhyenh1ODZ0bmtlZXVvMTRwYXo5dWd4OGJpaTJxaHJ1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Robotics" width="600"/>
@@ -9,8 +9,8 @@
 
 ### 👨‍🎓 About Me
 - 🎓 **Master’s Student** in Robotics at **University at Buffalo** (GPA: 4.0/4.0)  
-- ✈️ Passionate about UAV systems, autonomous navigation, and multi-robot coordination  
-- 🔍 Research Interests: Reinforcement Learning, SLAM, and Sensor Fusion  
+- ✈️ Passionate about autonomous mobile robots and multi-robot coordination.
+- 🔍 **Research Interests**: Autonomous Robots, Perception, Navigation and Path Planning, SLAM, and Sensor Fusion 
 - 📚 Constantly exploring cutting-edge robotics and AI technologies  
 
 ---
