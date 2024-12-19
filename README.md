@@ -13,20 +13,7 @@
 - 🔍 **Research Interests**: Autonomous Robots, Perception, Navigation and Path Planning, SLAM, and Sensor Fusion 
 - 📚 Enthusiastic about conducting research to advance robotics and AI technologies.
 
----
 
-### 🌐 Connect with Me
-<p align="center">
-  <a href="https://linkedin.com/in/pjpkvarma" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:jpkvarmapothuri@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email"/>
-  </a>
-  <a href="https://www.buffalo.edu/~jagadesw" target="_blank">
-    <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/48/000000/external-portfolio-resume-flaticons-lineal-color-flat-icons.png" alt="Portfolio"/>
-  </a>
-</p>
 
 ---
 ### 🛠️ Tech Stack
@@ -55,3 +42,18 @@
 - ⚡ I can explain complex robotic algorithms but still occasionally trip over flat surfaces!
 - 🏐 I love playing volleyball and cricket, but my robotic arm simulations have better coordination than my real ones!
 - 💤 When not building robots, you’ll either find me at the gym or catching up on some much-needed sleep!
+
+---
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/pjpkvarma" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:jpkvarmapothuri@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email"/>
+  </a>
+  <a href="https://www.buffalo.edu/~jagadesw" target="_blank">
+    <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/48/000000/external-portfolio-resume-flaticons-lineal-color-flat-icons.png" alt="Portfolio"/>
+  </a>
+</p>
