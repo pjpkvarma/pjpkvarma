@@ -47,7 +47,7 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/pjpkvarma" target="_blank">
+  <a href="https://linkedin.com/in/jpkvpothuri" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
   <a href="mailto:jpkvarmapothuri@gmail.com">
